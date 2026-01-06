@@ -1,1 +1,1 @@
-# study-on-1st-winter-break
+# 개발도구와 배포를 연습하는 실험실
